@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Company_InformationModelStoreContainer" CdmEntityContainer="Company_InformationEntities">
+    <EntitySetMapping Name="ApprovedInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.ApprovedInfo">
+        <MappingFragment StoreEntitySet="ApprovedInfo">
+          <ScalarProperty Name="AppName" ColumnName="AppName" />
+          <ScalarProperty Name="ApprovedId" ColumnName="ApprovedId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BranchInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.BranchInfo">
+        <MappingFragment StoreEntitySet="BranchInfo">
+          <ScalarProperty Name="BranchName" ColumnName="BranchName" />
+          <ScalarProperty Name="BranchId" ColumnName="BranchId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClassInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.ClassInfo">
+        <MappingFragment StoreEntitySet="ClassInfo">
+          <ScalarProperty Name="ClassName" ColumnName="ClassName" />
+          <ScalarProperty Name="ClassId" ColumnName="ClassId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DistrictInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.DistrictInfo">
+        <MappingFragment StoreEntitySet="DistrictInfo">
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="lon" ColumnName="lon" />
+          <ScalarProperty Name="lat" ColumnName="lat" />
+          <ScalarProperty Name="bn_name" ColumnName="bn_name" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="division_id" ColumnName="division_id" />
+          <ScalarProperty Name="DistrictId" ColumnName="DistrictId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DivisionInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.DivisionInfo">
+        <MappingFragment StoreEntitySet="DivisionInfo">
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="bn_name" ColumnName="bn_name" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="division_id" ColumnName="division_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EStatusInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.EStatusInfo">
+        <MappingFragment StoreEntitySet="EStatusInfo">
+          <ScalarProperty Name="EStatusName" ColumnName="EStatusName" />
+          <ScalarProperty Name="EStatusId" ColumnName="EStatusId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FeeEntryInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.FeeEntryInfo">
+        <MappingFragment StoreEntitySet="FeeEntryInfo">
+          <ScalarProperty Name="PayDate" ColumnName="PayDate" />
+          <ScalarProperty Name="GrantedMemberId" ColumnName="GrantedMemberId" />
+          <ScalarProperty Name="ApprovedId" ColumnName="ApprovedId" />
+          <ScalarProperty Name="TranjectionId" ColumnName="TranjectionId" />
+          <ScalarProperty Name="PaymentStatusId" ColumnName="PaymentStatusId" />
+          <ScalarProperty Name="PaymentMethodId" ColumnName="PaymentMethodId" />
+          <ScalarProperty Name="TotalCost" ColumnName="TotalCost" />
+          <ScalarProperty Name="FeeperStudent" ColumnName="FeeperStudent" />
+          <ScalarProperty Name="TotalStudent" ColumnName="TotalStudent" />
+          <ScalarProperty Name="ClassId" ColumnName="ClassId" />
+          <ScalarProperty Name="YearId" ColumnName="YearId" />
+          <ScalarProperty Name="MonthId" ColumnName="MonthId" />
+          <ScalarProperty Name="BranchId" ColumnName="BranchId" />
+          <ScalarProperty Name="InstituteId" ColumnName="InstituteId" />
+          <ScalarProperty Name="FeeEntryId" ColumnName="FeeEntryId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GenderInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.GenderInfo">
+        <MappingFragment StoreEntitySet="GenderInfo">
+          <ScalarProperty Name="GenName" ColumnName="GenName" />
+          <ScalarProperty Name="GenderId" ColumnName="GenderId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InstituteInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.InstituteInfo">
+        <MappingFragment StoreEntitySet="InstituteInfo">
+          <ScalarProperty Name="GrantedMemberId" ColumnName="GrantedMemberId" />
+          <ScalarProperty Name="StatusId" ColumnName="StatusId" />
+          <ScalarProperty Name="InsTypeId" ColumnName="InsTypeId" />
+          <ScalarProperty Name="division_id" ColumnName="division_id" />
+          <ScalarProperty Name="DistrictId" ColumnName="DistrictId" />
+          <ScalarProperty Name="Upazilaid" ColumnName="Upazilaid" />
+          <ScalarProperty Name="InsShortName" ColumnName="InsShortName" />
+          <ScalarProperty Name="InsName" ColumnName="InsName" />
+          <ScalarProperty Name="InstituteId" ColumnName="InstituteId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InsTypeInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.InsTypeInfo">
+        <MappingFragment StoreEntitySet="InsTypeInfo">
+          <ScalarProperty Name="InsType" ColumnName="InsType" />
+          <ScalarProperty Name="InsTypeId" ColumnName="InsTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MonthInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.MonthInfo">
+        <MappingFragment StoreEntitySet="MonthInfo">
+          <ScalarProperty Name="MonthName" ColumnName="MonthName" />
+          <ScalarProperty Name="MonthId" ColumnName="MonthId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PaymentmethodInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.PaymentmethodInfo">
+        <MappingFragment StoreEntitySet="PaymentmethodInfo">
+          <ScalarProperty Name="PayMethodName" ColumnName="PayMethodName" />
+          <ScalarProperty Name="PaymentMethodId" ColumnName="PaymentMethodId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PaymentStatusInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.PaymentStatusInfo">
+        <MappingFragment StoreEntitySet="PaymentStatusInfo">
+          <ScalarProperty Name="PSName" ColumnName="PSName" />
+          <ScalarProperty Name="PaymentStatusId" ColumnName="PaymentStatusId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PStatusInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.PStatusInfo">
+        <MappingFragment StoreEntitySet="PStatusInfo">
+          <ScalarProperty Name="PStatusName" ColumnName="PStatusName" />
+          <ScalarProperty Name="PStatusId" ColumnName="PStatusId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatusInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.StatusInfo">
+        <MappingFragment StoreEntitySet="StatusInfo">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="StatusId" ColumnName="StatusId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TraneeInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.TraneeInfo">
+        <MappingFragment StoreEntitySet="TraneeInfo">
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="UName" ColumnName="UName" />
+          <ScalarProperty Name="BloodGroup" ColumnName="BloodGroup" />
+          <ScalarProperty Name="percentage" ColumnName="percentage" />
+          <ScalarProperty Name="PStatusId" ColumnName="PStatusId" />
+          <ScalarProperty Name="EStatusId" ColumnName="EStatusId" />
+          <ScalarProperty Name="GenderId" ColumnName="GenderId" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="NID" ColumnName="NID" />
+          <ScalarProperty Name="JoiningDate" ColumnName="JoiningDate" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="TraneeTypeId" ColumnName="TraneeTypeId" />
+          <ScalarProperty Name="division_id" ColumnName="division_id" />
+          <ScalarProperty Name="Upazilaid" ColumnName="Upazilaid" />
+          <ScalarProperty Name="DistrictId" ColumnName="DistrictId" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="TraneeName" ColumnName="TraneeName" />
+          <ScalarProperty Name="TraneeId" ColumnName="TraneeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TTypeInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.TTypeInfo">
+        <MappingFragment StoreEntitySet="TTypeInfo">
+          <ScalarProperty Name="TraneeTypeName" ColumnName="TraneeTypeName" />
+          <ScalarProperty Name="TraneeTypeId" ColumnName="TraneeTypeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UpazilaInfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.UpazilaInfo">
+        <MappingFragment StoreEntitySet="UpazilaInfo">
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="bn_name" ColumnName="bn_name" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="DistrictId" ColumnName="DistrictId" />
+          <ScalarProperty Name="Upazilaid" ColumnName="Upazilaid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yearinfoes">
+      <EntityTypeMapping TypeName="Company_InformationModel.Yearinfo">
+        <MappingFragment StoreEntitySet="Yearinfo">
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="YearId" ColumnName="YearId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

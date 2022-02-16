@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Company_InformationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Company_InformationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ApprovedInfoes" EntityType="Company_InformationModel.ApprovedInfo" />
+    <EntitySet Name="BranchInfoes" EntityType="Company_InformationModel.BranchInfo" />
+    <EntitySet Name="ClassInfoes" EntityType="Company_InformationModel.ClassInfo" />
+    <EntitySet Name="DistrictInfoes" EntityType="Company_InformationModel.DistrictInfo" />
+    <EntitySet Name="DivisionInfoes" EntityType="Company_InformationModel.DivisionInfo" />
+    <EntitySet Name="EStatusInfoes" EntityType="Company_InformationModel.EStatusInfo" />
+    <EntitySet Name="FeeEntryInfoes" EntityType="Company_InformationModel.FeeEntryInfo" />
+    <EntitySet Name="GenderInfoes" EntityType="Company_InformationModel.GenderInfo" />
+    <EntitySet Name="InstituteInfoes" EntityType="Company_InformationModel.InstituteInfo" />
+    <EntitySet Name="InsTypeInfoes" EntityType="Company_InformationModel.InsTypeInfo" />
+    <EntitySet Name="MonthInfoes" EntityType="Company_InformationModel.MonthInfo" />
+    <EntitySet Name="PaymentmethodInfoes" EntityType="Company_InformationModel.PaymentmethodInfo" />
+    <EntitySet Name="PaymentStatusInfoes" EntityType="Company_InformationModel.PaymentStatusInfo" />
+    <EntitySet Name="PStatusInfoes" EntityType="Company_InformationModel.PStatusInfo" />
+    <EntitySet Name="StatusInfoes" EntityType="Company_InformationModel.StatusInfo" />
+    <EntitySet Name="TraneeInfoes" EntityType="Company_InformationModel.TraneeInfo" />
+    <EntitySet Name="TTypeInfoes" EntityType="Company_InformationModel.TTypeInfo" />
+    <EntitySet Name="UpazilaInfoes" EntityType="Company_InformationModel.UpazilaInfo" />
+    <EntitySet Name="Yearinfoes" EntityType="Company_InformationModel.Yearinfo" />
+  </EntityContainer>
+  <EntityType Name="ApprovedInfo">
+    <Key>
+      <PropertyRef Name="ApprovedId" />
+    </Key>
+    <Property Name="ApprovedId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AppName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="BranchInfo">
+    <Key>
+      <PropertyRef Name="BranchId" />
+    </Key>
+    <Property Name="BranchId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BranchName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ClassInfo">
+    <Key>
+      <PropertyRef Name="ClassId" />
+    </Key>
+    <Property Name="ClassId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ClassName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="DistrictInfo">
+    <Key>
+      <PropertyRef Name="DistrictId" />
+    </Key>
+    <Property Name="DistrictId" Type="Int32" Nullable="false" />
+    <Property Name="division_id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="bn_name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="lat" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="lon" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="url" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="DivisionInfo">
+    <Key>
+      <PropertyRef Name="division_id" />
+    </Key>
+    <Property Name="division_id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="bn_name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="url" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="EStatusInfo">
+    <Key>
+      <PropertyRef Name="EStatusId" />
+    </Key>
+    <Property Name="EStatusId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EStatusName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="FeeEntryInfo">
+    <Key>
+      <PropertyRef Name="FeeEntryId" />
+    </Key>
+    <Property Name="FeeEntryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="InstituteId" Type="Int32" />
+    <Property Name="BranchId" Type="Int32" />
+    <Property Name="MonthId" Type="Int32" />
+    <Property Name="YearId" Type="Int32" />
+    <Property Name="ClassId" Type="Int32" />
+    <Property Name="TotalStudent" Type="Int32" />
+    <Property Name="FeeperStudent" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="TotalCost" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="PaymentMethodId" Type="Int32" />
+    <Property Name="PaymentStatusId" Type="Int32" />
+    <Property Name="TranjectionId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ApprovedId" Type="Int32" />
+    <Property Name="GrantedMemberId" Type="Int32" />
+    <Property Name="PayDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="GenderInfo">
+    <Key>
+      <PropertyRef Name="GenderId" />
+    </Key>
+    <Property Name="GenderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GenName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="InstituteInfo">
+    <Key>
+      <PropertyRef Name="InstituteId" />
+    </Key>
+    <Property Name="InstituteId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="InsName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="InsShortName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Upazilaid" Type="Int32" />
+    <Property Name="DistrictId" Type="Int32" />
+    <Property Name="division_id" Type="Int32" />
+    <Property Name="InsTypeId" Type="Int32" />
+    <Property Name="StatusId" Type="Int32" />
+    <Property Name="GrantedMemberId" Type="Int32" />
+  </EntityType>
+  <EntityType Name="InsTypeInfo">
+    <Key>
+      <PropertyRef Name="InsTypeId" />
+    </Key>
+    <Property Name="InsTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="InsType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="MonthInfo">
+    <Key>
+      <PropertyRef Name="MonthId" />
+    </Key>
+    <Property Name="MonthId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MonthName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="PaymentmethodInfo">
+    <Key>
+      <PropertyRef Name="PaymentMethodId" />
+    </Key>
+    <Property Name="PaymentMethodId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PayMethodName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="PaymentStatusInfo">
+    <Key>
+      <PropertyRef Name="PaymentStatusId" />
+    </Key>
+    <Property Name="PaymentStatusId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PSName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="PStatusInfo">
+    <Key>
+      <PropertyRef Name="PStatusId" />
+    </Key>
+    <Property Name="PStatusId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PStatusName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="StatusInfo">
+    <Key>
+      <PropertyRef Name="StatusId" />
+    </Key>
+    <Property Name="StatusId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TraneeInfo">
+    <Key>
+      <PropertyRef Name="TraneeId" />
+    </Key>
+    <Property Name="TraneeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TraneeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="14" FixedLength="false" Unicode="true" />
+    <Property Name="DistrictId" Type="Int32" />
+    <Property Name="Upazilaid" Type="Int32" />
+    <Property Name="division_id" Type="Int32" />
+    <Property Name="TraneeTypeId" Type="Int32" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="JoiningDate" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DOB" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="GenderId" Type="Int32" />
+    <Property Name="EStatusId" Type="Int32" />
+    <Property Name="PStatusId" Type="Int32" />
+    <Property Name="percentage" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="BloodGroup" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="UName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="TTypeInfo">
+    <Key>
+      <PropertyRef Name="TraneeTypeId" />
+    </Key>
+    <Property Name="TraneeTypeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TraneeTypeName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UpazilaInfo">
+    <Key>
+      <PropertyRef Name="Upazilaid" />
+    </Key>
+    <Property Name="Upazilaid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DistrictId" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="bn_name" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="url" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Yearinfo">
+    <Key>
+      <PropertyRef Name="YearId" />
+    </Key>
+    <Property Name="YearId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Year" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

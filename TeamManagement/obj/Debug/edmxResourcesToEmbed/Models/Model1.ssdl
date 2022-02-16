@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Company_InformationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ApprovedInfo">
+    <Key>
+      <PropertyRef Name="ApprovedId" />
+    </Key>
+    <Property Name="ApprovedId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AppName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="BranchInfo">
+    <Key>
+      <PropertyRef Name="BranchId" />
+    </Key>
+    <Property Name="BranchId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BranchName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="ClassInfo">
+    <Key>
+      <PropertyRef Name="ClassId" />
+    </Key>
+    <Property Name="ClassId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ClassName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DistrictInfo">
+    <Key>
+      <PropertyRef Name="DistrictId" />
+    </Key>
+    <Property Name="DistrictId" Type="int" Nullable="false" />
+    <Property Name="division_id" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="bn_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="lat" Type="varchar" MaxLength="15" />
+    <Property Name="lon" Type="varchar" MaxLength="15" />
+    <Property Name="url" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DivisionInfo">
+    <Key>
+      <PropertyRef Name="division_id" />
+    </Key>
+    <Property Name="division_id" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="bn_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="url" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EStatusInfo">
+    <Key>
+      <PropertyRef Name="EStatusId" />
+    </Key>
+    <Property Name="EStatusId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EStatusName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="FeeEntryInfo">
+    <Key>
+      <PropertyRef Name="FeeEntryId" />
+    </Key>
+    <Property Name="FeeEntryId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="InstituteId" Type="int" />
+    <Property Name="BranchId" Type="int" />
+    <Property Name="MonthId" Type="int" />
+    <Property Name="YearId" Type="int" />
+    <Property Name="ClassId" Type="int" />
+    <Property Name="TotalStudent" Type="int" />
+    <Property Name="FeeperStudent" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="TotalCost" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="PaymentMethodId" Type="int" />
+    <Property Name="PaymentStatusId" Type="int" />
+    <Property Name="TranjectionId" Type="nvarchar" MaxLength="50" />
+    <Property Name="ApprovedId" Type="int" />
+    <Property Name="GrantedMemberId" Type="int" />
+    <Property Name="PayDate" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="GenderInfo">
+    <Key>
+      <PropertyRef Name="GenderId" />
+    </Key>
+    <Property Name="GenderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="GenName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="InstituteInfo">
+    <Key>
+      <PropertyRef Name="InstituteId" />
+    </Key>
+    <Property Name="InstituteId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="InsName" Type="nvarchar" MaxLength="250" />
+    <Property Name="InsShortName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Upazilaid" Type="int" />
+    <Property Name="DistrictId" Type="int" />
+    <Property Name="division_id" Type="int" />
+    <Property Name="InsTypeId" Type="int" />
+    <Property Name="StatusId" Type="int" />
+    <Property Name="GrantedMemberId" Type="int" />
+  </EntityType>
+  <EntityType Name="InsTypeInfo">
+    <Key>
+      <PropertyRef Name="InsTypeId" />
+    </Key>
+    <Property Name="InsTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="InsType" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="MonthInfo">
+    <Key>
+      <PropertyRef Name="MonthId" />
+    </Key>
+    <Property Name="MonthId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MonthName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PaymentmethodInfo">
+    <Key>
+      <PropertyRef Name="PaymentMethodId" />
+    </Key>
+    <Property Name="PaymentMethodId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PayMethodName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PaymentStatusInfo">
+    <Key>
+      <PropertyRef Name="PaymentStatusId" />
+    </Key>
+    <Property Name="PaymentStatusId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PSName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PStatusInfo">
+    <Key>
+      <PropertyRef Name="PStatusId" />
+    </Key>
+    <Property Name="PStatusId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PStatusName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="StatusInfo">
+    <Key>
+      <PropertyRef Name="StatusId" />
+    </Key>
+    <Property Name="StatusId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="TraneeInfo">
+    <Key>
+      <PropertyRef Name="TraneeId" />
+    </Key>
+    <Property Name="TraneeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TraneeName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="14" />
+    <Property Name="DistrictId" Type="int" />
+    <Property Name="Upazilaid" Type="int" />
+    <Property Name="division_id" Type="int" />
+    <Property Name="TraneeTypeId" Type="int" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="Image" Type="nvarchar(max)" />
+    <Property Name="JoiningDate" Type="nvarchar" MaxLength="50" />
+    <Property Name="NID" Type="nvarchar" MaxLength="50" />
+    <Property Name="DOB" Type="nvarchar" MaxLength="50" />
+    <Property Name="GenderId" Type="int" />
+    <Property Name="EStatusId" Type="int" />
+    <Property Name="PStatusId" Type="int" />
+    <Property Name="percentage" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="BloodGroup" Type="nvarchar" MaxLength="10" />
+    <Property Name="UName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TTypeInfo">
+    <Key>
+      <PropertyRef Name="TraneeTypeId" />
+    </Key>
+    <Property Name="TraneeTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TraneeTypeName" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="UpazilaInfo">
+    <Key>
+      <PropertyRef Name="Upazilaid" />
+    </Key>
+    <Property Name="Upazilaid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DistrictId" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="25" Nullable="false" />
+    <Property Name="bn_name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="url" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Yearinfo">
+    <Key>
+      <PropertyRef Name="YearId" />
+    </Key>
+    <Property Name="YearId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Year" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Company_InformationModelStoreContainer">
+    <EntitySet Name="ApprovedInfo" EntityType="Self.ApprovedInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BranchInfo" EntityType="Self.BranchInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ClassInfo" EntityType="Self.ClassInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DistrictInfo" EntityType="Self.DistrictInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DivisionInfo" EntityType="Self.DivisionInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EStatusInfo" EntityType="Self.EStatusInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FeeEntryInfo" EntityType="Self.FeeEntryInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GenderInfo" EntityType="Self.GenderInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="InstituteInfo" EntityType="Self.InstituteInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="InsTypeInfo" EntityType="Self.InsTypeInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="MonthInfo" EntityType="Self.MonthInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PaymentmethodInfo" EntityType="Self.PaymentmethodInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PaymentStatusInfo" EntityType="Self.PaymentStatusInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PStatusInfo" EntityType="Self.PStatusInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StatusInfo" EntityType="Self.StatusInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TraneeInfo" EntityType="Self.TraneeInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TTypeInfo" EntityType="Self.TTypeInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UpazilaInfo" EntityType="Self.UpazilaInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Yearinfo" EntityType="Self.Yearinfo" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

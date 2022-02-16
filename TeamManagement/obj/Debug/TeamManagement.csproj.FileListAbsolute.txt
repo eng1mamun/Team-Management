@@ -1,0 +1,492 @@
+G:\Project\TeamManagement\TeamManagement\bin\ApplicationInsights.config
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\csc.exe
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\vbc.exe
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\VBCSCompiler.exe
+G:\Project\TeamManagement\TeamManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\Project\TeamManagement\TeamManagement\bin\TeamManagement.dll.config
+G:\Project\TeamManagement\TeamManagement\bin\TeamManagement.dll
+G:\Project\TeamManagement\TeamManagement\bin\TeamManagement.pdb
+G:\Project\TeamManagement\TeamManagement\bin\Antlr3.Runtime.dll
+G:\Project\TeamManagement\TeamManagement\bin\EntityFramework.dll
+G:\Project\TeamManagement\TeamManagement\bin\EntityFramework.SqlServer.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.DependencyCollector.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.Web.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.WindowsServer.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.ApplicationInsights.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Google.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\Project\TeamManagement\TeamManagement\bin\Newtonsoft.Json.dll
+G:\Project\TeamManagement\TeamManagement\bin\Owin.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Helpers.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Mvc.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Optimization.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Razor.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.WebPages.Deployment.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.WebPages.dll
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.WebPages.Razor.dll
+G:\Project\TeamManagement\TeamManagement\bin\WebGrease.dll
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.DependencyCollector.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.Web.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AI.WindowsServer.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.ApplicationInsights.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Helpers.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Mvc.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Optimization.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.Razor.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.WebPages.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.WebPages.Deployment.xml
+G:\Project\TeamManagement\TeamManagement\bin\System.Web.WebPages.Razor.xml
+G:\Project\TeamManagement\TeamManagement\bin\Antlr3.Runtime.pdb
+G:\Project\TeamManagement\TeamManagement\bin\Newtonsoft.Json.xml
+G:\Project\TeamManagement\TeamManagement\bin\EntityFramework.xml
+G:\Project\TeamManagement\TeamManagement\bin\EntityFramework.SqlServer.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Google.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Project\TeamManagement\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Project\TeamManagement\TeamManagement\obj\Debug\TeamManagement.csprojResolveAssemblyReference.cache
+G:\Project\TeamManagement\TeamManagement\obj\Debug\TeamManagement.dll
+G:\Project\TeamManagement\TeamManagement\obj\Debug\TeamManagement.pdb
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\ApplicationInsights.config
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\csc.exe
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\vbc.exe
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\TeamManagement.dll.config
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\TeamManagement.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\TeamManagement.pdb
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Antlr3.Runtime.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\EntityFramework.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.Web.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Newtonsoft.Json.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Owin.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Helpers.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Mvc.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Optimization.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Razor.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.WebPages.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\WebGrease.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.Web.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Helpers.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Mvc.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Optimization.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.Razor.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.WebPages.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Antlr3.Runtime.pdb
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Newtonsoft.Json.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\EntityFramework.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\obj\Debug\TeamManagement.dll
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\obj\Debug\TeamManagement.pdb
+C:\Users\acer\Downloads\MTeam\MTeam\TeamManagement\obj\Debug\TeamManagement.csprojResolveAssemblyReference.cache
+J:\New folder\MTeam\TeamManagement\bin\ApplicationInsights.config
+J:\New folder\MTeam\TeamManagement\bin\roslyn\csc.exe
+J:\New folder\MTeam\TeamManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\New folder\MTeam\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\New folder\MTeam\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\New folder\MTeam\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\New folder\MTeam\TeamManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\New folder\MTeam\TeamManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\New folder\MTeam\TeamManagement\bin\roslyn\System.Collections.Immutable.dll
+J:\New folder\MTeam\TeamManagement\bin\roslyn\System.Reflection.Metadata.dll
+J:\New folder\MTeam\TeamManagement\bin\roslyn\vbc.exe
+J:\New folder\MTeam\TeamManagement\bin\roslyn\VBCSCompiler.exe
+J:\New folder\MTeam\TeamManagement\bin\roslyn\VBCSCompiler.exe.config
+J:\New folder\MTeam\TeamManagement\bin\TeamManagement.dll.config
+J:\New folder\MTeam\TeamManagement\bin\TeamManagement.dll
+J:\New folder\MTeam\TeamManagement\bin\TeamManagement.pdb
+J:\New folder\MTeam\TeamManagement\bin\Antlr3.Runtime.dll
+J:\New folder\MTeam\TeamManagement\bin\EntityFramework.dll
+J:\New folder\MTeam\TeamManagement\bin\EntityFramework.SqlServer.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.Agent.Intercept.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.DependencyCollector.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.Web.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.WindowsServer.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.ApplicationInsights.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Core.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Cookies.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Facebook.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Google.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.OAuth.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Twitter.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Web.Infrastructure.dll
+J:\New folder\MTeam\TeamManagement\bin\Newtonsoft.Json.dll
+J:\New folder\MTeam\TeamManagement\bin\Owin.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Helpers.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Mvc.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Optimization.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Razor.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.WebPages.Deployment.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.WebPages.dll
+J:\New folder\MTeam\TeamManagement\bin\System.Web.WebPages.Razor.dll
+J:\New folder\MTeam\TeamManagement\bin\WebGrease.dll
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.DependencyCollector.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.Web.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AI.WindowsServer.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.ApplicationInsights.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Helpers.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Mvc.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Optimization.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.Razor.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.WebPages.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.WebPages.Deployment.xml
+J:\New folder\MTeam\TeamManagement\bin\System.Web.WebPages.Razor.xml
+J:\New folder\MTeam\TeamManagement\bin\Antlr3.Runtime.pdb
+J:\New folder\MTeam\TeamManagement\bin\Newtonsoft.Json.xml
+J:\New folder\MTeam\TeamManagement\bin\EntityFramework.xml
+J:\New folder\MTeam\TeamManagement\bin\EntityFramework.SqlServer.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Core.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Facebook.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Cookies.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.OAuth.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Google.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.Twitter.xml
+J:\New folder\MTeam\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\New folder\MTeam\TeamManagement\obj\Debug\TeamManagement.dll
+J:\New folder\MTeam\TeamManagement\obj\Debug\TeamManagement.pdb
+J:\New folder\MTeam\TeamManagement\obj\Debug\TeamManagement.csprojResolveAssemblyReference.cache
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\ApplicationInsights.config
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\csc.exe
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\vbc.exe
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\VBCSCompiler.exe
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\TeamManagement.dll.config
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\TeamManagement.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\TeamManagement.pdb
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Antlr3.Runtime.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.SqlServer.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.Agent.Intercept.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.DependencyCollector.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.Web.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.WindowsServer.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.ApplicationInsights.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Core.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Cookies.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Facebook.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Google.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.OAuth.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Twitter.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Newtonsoft.Json.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Owin.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Helpers.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Mvc.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Optimization.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Razor.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Deployment.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Razor.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\WebGrease.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.DependencyCollector.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.Web.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.WindowsServer.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.ApplicationInsights.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Helpers.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Mvc.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Optimization.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.Razor.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Deployment.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Razor.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Antlr3.Runtime.pdb
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Newtonsoft.Json.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.SqlServer.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Core.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Facebook.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Cookies.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.OAuth.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Google.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Twitter.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\obj\Debug\TeamManagement.dll
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\obj\Debug\TeamManagement.pdb
+G:\pk sir (asp.net)\2021 (Intern)\MTeam1\MTeam1\TeamManagement\obj\Debug\TeamManagement.csprojResolveAssemblyReference.cache
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\obj\Debug\TeamManagement.csprojResolveAssemblyReference.cache
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\obj\Debug\TeamManagement.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\obj\Debug\TeamManagement.pdb
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\ApplicationInsights.config
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\csc.exe
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\System.Collections.Immutable.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\System.Reflection.Metadata.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\vbc.exe
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\VBCSCompiler.exe
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\roslyn\VBCSCompiler.exe.config
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\TeamManagement.dll.config
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\TeamManagement.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\TeamManagement.pdb
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Antlr3.Runtime.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.SqlServer.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.Agent.Intercept.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.DependencyCollector.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.Web.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.WindowsServer.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.ApplicationInsights.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Google.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Web.Infrastructure.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Newtonsoft.Json.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Owin.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Helpers.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Mvc.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Optimization.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Razor.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Deployment.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Razor.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\WebGrease.dll
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.DependencyCollector.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.Web.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AI.WindowsServer.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.ApplicationInsights.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Helpers.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Mvc.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Optimization.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.Razor.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Deployment.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\System.Web.WebPages.Razor.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Antlr3.Runtime.pdb
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Newtonsoft.Json.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\EntityFramework.SqlServer.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Google.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ProjectfileCloud\MTeam1\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\ApplicationInsights.config
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\csc.exe
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\vbc.exe
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\VBCSCompiler.exe
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\TeamManagement.dll.config
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\TeamManagement.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\TeamManagement.pdb
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Antlr3.Runtime.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\EntityFramework.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\EntityFramework.SqlServer.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.Agent.Intercept.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.DependencyCollector.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.Web.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.WindowsServer.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.ApplicationInsights.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Core.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Cookies.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Facebook.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Google.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.OAuth.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Twitter.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Newtonsoft.Json.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Owin.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Helpers.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Mvc.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Optimization.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Razor.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.WebPages.Deployment.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.WebPages.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.WebPages.Razor.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\WebGrease.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.DependencyCollector.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.Web.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AI.WindowsServer.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.ApplicationInsights.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Helpers.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Mvc.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Optimization.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.Razor.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.WebPages.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.WebPages.Deployment.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\System.Web.WebPages.Razor.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Antlr3.Runtime.pdb
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Newtonsoft.Json.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\EntityFramework.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\EntityFramework.SqlServer.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Core.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Facebook.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Cookies.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.OAuth.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Google.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.Twitter.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\obj\Debug\TeamManagement.csprojResolveAssemblyReference.cache
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\obj\Debug\TeamManagement.dll
+G:\pk sir (asp.net)\2021 (Intern)\18 March 2021\MTeam1\TeamManagement\obj\Debug\TeamManagement.pdb
